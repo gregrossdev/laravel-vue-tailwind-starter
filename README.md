@@ -1,14 +1,16 @@
-# Laravel 9 Vue 3 TailwindCSS Starter
+# Laravel9 Vue3 TailwindCSS Starter with Vite
 
 ![Laravel 9 Vue 3 TailwindCSS Starter](public/assets/images/screenshot.png)
 
-The Laravel 9 Vue 3 TailwindCSS Starter project is a boilerplate template designed to provide a quick and convenient starting point for Laravel 9 development environments. It comes pre-configured with Vue 3 and TailwindCSS, allowing developers to jumpstart their projects with ease.
+The Laravel9 Vue3 TailwindCSS Starter with Vite is a development environment template that provides a quickstart setup for Laravel 9 with Vue 3 and Tailwind CSS. It offers a streamlined architecture for both the backend and frontend, allowing developers to begin their projects more efficiently.
 
 ## Features
 
 - **Backend and Frontend Folder Architecture**: The project follows a folder structure that separates the backend and frontend code. This allows developers to focus on their specific areas of expertise and promotes a clean separation of concerns.
 
 - **Laravel 9**: The latest version of Laravel 9 provides a robust and feature-rich PHP framework for building web applications. It includes various enhancements and improvements over previous versions.
+
+- **Vite as the Build Tool**: The project utilizes Vite as the frontend build tool, enabling faster development and a more efficient development experience. Vite leverages native ES modules to provide rapid hot module replacement (HMR) and optimized production builds.
 
 - **Vue 3**: Vue 3, a progressive JavaScript framework, is integrated into the project, providing a powerful and intuitive frontend development experience. It enables developers to create dynamic and reactive user interfaces.
 
@@ -23,6 +25,8 @@ The Laravel 9 Vue 3 TailwindCSS Starter project is built using the following tec
 - **Vue 3**: Vue 3 is integrated into the project, enabling developers to build dynamic user interfaces with ease. It provides reactivity, component-based architecture, and a rich ecosystem of tools and libraries.
 
 - **TailwindCSS**: TailwindCSS is utilized for styling and UI development. It offers a comprehensive set of utility classes that can be easily applied to create custom and responsive designs.
+
+- **Vite**: Vite is a next-generation frontend build tool that offers lightning-fast development experience. It provides near-instantaneous hot module replacement (HMR), efficient bundling, and optimized production builds.
 
 ## Lessons Learned
 
