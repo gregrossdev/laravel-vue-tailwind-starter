@@ -1,6 +1,6 @@
 # Laravel 9 Vue 3 TailwindCSS Starter
 
-![Laravel 9 Vue 3 TailwindCSS Starter](images/laravel-vue-tailwind.png)
+![Laravel 9 Vue 3 TailwindCSS Starter](public/assets/images/screenshot.png)
 
 The Laravel 9 Vue 3 TailwindCSS Starter project is a boilerplate template designed to provide a quick and convenient starting point for Laravel 9 development environments. It comes pre-configured with Vue 3 and TailwindCSS, allowing developers to jumpstart their projects with ease.
 
